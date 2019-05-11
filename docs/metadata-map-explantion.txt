@@ -1,0 +1,15 @@
+{
+	"code": Integer - weather code
+	"solar": Float - normal solar height (time of day) 0.0 to 1.0, 1.0 = solar noon
+	"temp": Float - temp 0.0 to 1.0, 0 to 40 degrees celcius
+	"credit": Text - artist credit complete
+	"link": Text - link to artist
+	"anchor": Text - gravity position {top | bottom | left | right}
+	"super": Text - awesome? {yes | no}
+	"animated": Text - has animation? {yes | no}
+	"season": Text - looks like season {any | winter | spring | summer | fall}
+	"setting": Text - looks like area {rural | urban | barren | sea | space | abstract}
+	"era": Text - feel like era {medieval | twencen | 80s | modern | future | farfuture | abstract}
+	"vibe": Text - evokes feelings of {cute | horror | realistic | sophisticated}
+	"style": Text - art style {primative | pc | anime | modern | retro}
+}

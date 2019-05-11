@@ -1,0 +1,15 @@
+"name": {
+	"code": 800,
+	"solar": 0.0,
+	"temp": 0.5,
+	"credit": "credit",
+	"link": "link",
+	"anchor": "top | bottom | left | right",
+	"super": "yes | no",
+	"animated": "yes | no",
+	"season": "any | winter | spring | summer | fall",
+	"setting": "rural | urban | barren | sea | space | abstract",
+	"era": "medieval | twencen | 80s | modern | future | farfuture | abstract",
+	"vibe": "cute | horror | realistic | sophisticated",
+	"style": "primative | pc | anime | modern | retro"
+}
