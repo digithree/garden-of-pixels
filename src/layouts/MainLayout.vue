@@ -62,7 +62,7 @@
           <p class="q-caption">Settings are saved locally to your browser.</p>
         </q-item>
         <q-item>
-          <p class="q-caption">GitHub link coming here when published.</p>
+          <p class="q-caption"><a target="_blank" href="https://github.com/digithree/garden-of-pixels">Open source on GitHub</a></p>
         </q-item>
       </q-list>
     </q-layout-drawer>
